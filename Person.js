@@ -7,6 +7,7 @@ class Person {
 
   getFullName() {
     console.log("TEST");
+    return 'Dog';
   }
 
 }
